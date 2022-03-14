@@ -1,2 +1,2 @@
 # Data-Analysis
-MATLAB project for the "Data Analysis" course at ECE AUTH.
+A set of programs in MATLAB for the "Data Analysis" course at ECE AUTH.
